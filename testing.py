@@ -9,3 +9,5 @@ print("updated with vsc settings")
 print("Adding more stuff to test")
 
 print("update new feature")
+
+print("testing powershell push")
